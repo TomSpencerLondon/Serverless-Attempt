@@ -1,5 +1,7 @@
 # Serverless-Attempt
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/TomSpencerLondon/Serverless-Attempt.svg)](https://greenkeeper.io/)
+
 #### Failed with following message so far:
 
 > serverless@1.0.0 test /Users/tomspencer/Desktop/serverless
